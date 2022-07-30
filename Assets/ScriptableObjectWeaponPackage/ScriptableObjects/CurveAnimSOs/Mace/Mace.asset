@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ff2a86d1a27f5f4e972b53a26f94fe7, type: 3}
+  m_Name: Mace
+  m_EditorClassIdentifier: 
+  weaponName: Mace
+  MoveSet:
+  - {fileID: 11400000, guid: 5b7f742599a52c04aab09f5bbf11d123, type: 2}
+  - {fileID: 11400000, guid: a1f62476e9d542b47ad4dc7257fea4a6, type: 2}
+  - {fileID: 11400000, guid: 274a526d0db810541ab597b92d1e8438, type: 2}

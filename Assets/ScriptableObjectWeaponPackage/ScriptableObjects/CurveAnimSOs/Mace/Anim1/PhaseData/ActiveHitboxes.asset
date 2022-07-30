@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4fbb00bd67f694db435065efda8433, type: 3}
+  m_Name: ActiveHitboxes
+  m_EditorClassIdentifier: 
+  NameOfPhase: ActiveHitboxes
+  phaseConstraints: {fileID: 11400000, guid: 56828e019860c11498825548ce7fbe4c, type: 2}
+  hasBeenEntered: 0
+  hasBeenExited: 0
+  phaseEvents:
+  - {fileID: 11400000, guid: 5bd3dee0be256634086f278314343da0, type: 2}
+  - {fileID: 11400000, guid: 96cd5d5f1dc38e543b4624d11a130d78, type: 2}

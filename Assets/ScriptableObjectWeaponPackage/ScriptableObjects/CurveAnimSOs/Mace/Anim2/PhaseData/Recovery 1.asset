@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc4fbb00bd67f694db435065efda8433, type: 3}
+  m_Name: Recovery 1
+  m_EditorClassIdentifier: 
+  NameOfPhase: Recovery
+  phaseConstraints: {fileID: 11400000, guid: ac4599a19683855419582bd2a72073ef, type: 2}
+  hasBeenEntered: 1
+  hasBeenExited: 1
+  phaseEvents:
+  - {fileID: 11400000, guid: 805c79abe8948c34793b9ca3fabab4ed, type: 2}
+  - {fileID: 11400000, guid: b7d6730f8ed7afe4883373bab4ff6751, type: 2}
